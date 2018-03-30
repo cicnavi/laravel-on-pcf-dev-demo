@@ -1,0 +1,7 @@
+{
+    "PHP_VERSION": "{PHP_72_LATEST}",
+    "WEBDIR": "public",
+    "COMPOSER_VENDOR_DIR": "vendor",
+    "COMPOSER_INSTALL_OPTIONS": ["--no-interaction", "--no-progress"],
+    "PHP_MODULES": ["cli", "fpm"]
+}
